@@ -4,6 +4,10 @@
     text-align: center;
 }
 
+body {
+    background-color: aqua;
+}
+
 img {
     height: auto;
     width: 500px;

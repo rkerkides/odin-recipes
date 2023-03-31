@@ -5,9 +5,14 @@
     line-height: 2;
 }
 
+body {
+    background-color: aqua;
+}
+
 img {
     height: 400px;
     width: 500px;
+    border-radius: 20px;
 }
 
 h1 {
