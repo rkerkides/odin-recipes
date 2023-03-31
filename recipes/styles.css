@@ -1,0 +1,29 @@
+* {
+    color: rgb(94, 55, 1);
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    line-height: 2;
+}
+
+img {
+    height: 400px;
+    width: 500px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+li {
+    font-size: 17px;
+    font-weight: lighter;
+    list-style-position: inside;
+}
